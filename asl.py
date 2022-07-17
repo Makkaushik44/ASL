@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 from PIL import Image, ImageOps
 from tensorflow import keras
-import cv2
 
 st.sidebar.header("What is American Sign Language?")
 
